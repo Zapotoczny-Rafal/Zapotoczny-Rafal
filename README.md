@@ -17,6 +17,9 @@
   <a href="https://codepen.io/Rzapotoczny" ref="nofollow">
     <img align="left" src="https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/codepen-logo.png" alt="codepen profile" width="24px"/>
   </a>
+  <a href="https://www.codewars.com/users/Zapotoczny-Rafal" ref="nofollow">
+    <img align="left" src="https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/codewars.svg" alt="codewars profile" width="24px"/>
+  </a>
   <br>
 </p>
 <hr></hr>
