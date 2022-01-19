@@ -26,6 +26,12 @@
 
 ### Languages and Tools:
 <p dir="auto">
+  <a href="https://v3.vuejs.org/" rel="nofollow">
+    <img align="left" alt="vue" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+  </a>
+  <a href="https://www.typescriptlang.org/" rel="nofollow">
+    <img align="left" alt="typescript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+  </a>
   <a href="https://developer.mozilla.org/pl/docs/Web/JavaScript" rel="nofollow">
     <img align="left" alt="javascript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   </a>
