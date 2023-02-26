@@ -26,6 +26,9 @@
 
 ### Languages and Tools:
 <p dir="auto">
+  <a href="https://nodejs.org/en/" rel="nofollow">
+    <img align="left" alt="node js" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  </a>
   <a href="https://v3.vuejs.org/" rel="nofollow">
     <img align="left" alt="vue" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
   </a>
@@ -56,8 +59,8 @@
 
 ### Software:
 <p dir="auto">
-  <a href="https://atom.io/" ref="nofollow">
-    <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" alt="atom" width="24px"/>
+  <a href="https://vscodium.com/" ref="nofollow">
+    <img align="left" src="https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/vscodium.svg" alt="vscodium" width="24px"/>
   </a> 
   <a href="https://inkscape.org/" ref="nofollow">
     <img align="left" src="https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/Inkscape.svg" alt="inkscape" width="24px"/>
@@ -74,8 +77,8 @@
   <a href="https://www.linux.com/" ref="nofollow">
     <img align="left" src="https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/linux.png" alt="linux" width="24px"/>
   </a>
-  <a href="https://zorin.com/" ref="nofollow">
-    <img align="left" src="https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/Zorin.svg.png" alt="zorin" width="24px"/>
+  <a href="https://manjaro.org/" ref="nofollow">
+    <img align="left" src="https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/manjaro.png" alt="manjaro" width="24px"/>
   </a>
   <br>
 </p>
