@@ -60,7 +60,7 @@
 ### Software:
 <p dir="auto">
   <a href="https://vscodium.com/" ref="nofollow">
-    <img align="left" src="https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/vscodium.svg" alt="vscodium" width="24px"/>
+    <img align="left" src="https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/vscodium.png" alt="vscodium" width="24px"/>
   </a> 
   <a href="https://inkscape.org/" ref="nofollow">
     <img align="left" src="https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/Inkscape.svg" alt="inkscape" width="24px"/>
