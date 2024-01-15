@@ -2,7 +2,7 @@
 
 ### About Me: 
 🚀 I am passionate about Web Dev and I enjoy learning new things.<br>
-💚 I love open source 👐, new technologies 👨‍💻, ski jumping ❄️ and dogs 🐕
+💚 I love open source 👐, new technologies 👨‍💻 and dogs 🐕
 
 ### Favorite Quote: 
 
