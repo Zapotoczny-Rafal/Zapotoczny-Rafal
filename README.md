@@ -24,19 +24,9 @@
 
 ### Languages and tools:
 <p dir="auto">
-   <a href="https://developer.mozilla.org/pl/docs/Web/JavaScript" rel="Nofollow">
-     <img align=”left” alt=”Javascript” width=”24px” src=”https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png”>
-   </a>
    <a href="https://www.w3.org/html/" rel="Nofollow">
      <img align=”left” alt=”HTML5” width=”24px” src=”https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png”>
    </a>
-   <a href=“https://git-scm.com/” rel=”nofollow”>
-     <img align="left" alt="git" width="24px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2777 data-can onical-src=„https://www.vectorlogo.zone/ logos/git-scm/git-scm-icon.svg”>
-   </a>
-   <a cel="_blank" rel="noopener noreferrer" href="https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/github.svg">
-     <img align="left" alt="git" width="24px" src="https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/github.svg">
-   </a>
-   
    <br>
 </p>
 
