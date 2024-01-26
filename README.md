@@ -31,13 +31,13 @@
    <a href="https://gofiber.io" ref=”nofollow”>
      <img align="left" src="https://gofiber.io/assets/images/logo.svg" alt="fiber" width="56px"/>
    </a>
-  <a href=“https://tailwindcss.com” ref=”nofollow”>
+  <a href="https://tailwindcss.com" ref=”nofollow”>
      <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/120px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="tailwind" width="32px"/>
    </a>
-  <a href=“https://hyperscript.org” ref=”nofollow”>
+  <a href="https://hyperscript.org" ref=”nofollow”>
      <img align="left" src="https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/htmx-logo.png" alt="tailwind" width="56px"/>
    </a>
-   <a href=“https://htmx.org” ref=”nofollow”>
+   <a href="https://htmx.org" ref=”nofollow”>
      <img align="left" src="https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/hyperscript-logo.png" alt="tailwind" width="56px"/>
    </a>
 </p>
