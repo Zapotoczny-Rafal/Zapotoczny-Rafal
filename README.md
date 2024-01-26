@@ -1,7 +1,7 @@
 ## Hello, my name is Rafał Zapotoczny
 
 ### About me :
-  programming is one of my passions and I plan to earn money from it in the future. Excited about new technologies such as Htmx, Hyperscript and Golang, I abandoned the path of a full-time programmer and focused my career on it. I am determined to be one of those who set my own new standard. 
+  Programming is one of my passions and I plan to earn money from it in the future. Excited about new technologies such as Htmx, Hyperscript and Golang, I abandoned the path of a full-time programmer and focused my career on it. I am determined to be one of those who set my own new standard. 
 
 ### Favorite quote:
 
