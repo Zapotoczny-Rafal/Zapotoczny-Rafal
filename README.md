@@ -10,7 +10,7 @@
 
 ### Social:
 <p dir="auto">
-   <a href="https://cssbattle.dev/player/zapotocznyny" ref="Nofollow">
+   <a href="https://cssbattle.dev/player/zapotoczny" ref="Nofollow">
      <img align="left" src="https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/css-battle.png" alt="css battle profile" width="24px" />
    </a>
    <a href="https://codepen.io/Rzapotoczny" ref="Nofollow">
@@ -25,10 +25,10 @@
 
 ### Languages and tools:
 <p dir="auto">
-   <a href=“https://go.dev/learn/” ref=”nofollow”>
+   <a href="https://go.dev/learn/" ref=”nofollow”>
      <img align="left" src="https://go.dev/images/go-logo-white.svg" alt="golang" width="36px"/>
    </a>
-   <a href=“https://gofiber.io” ref=”nofollow”>
+   <a href="https://gofiber.io" ref=”nofollow”>
      <img align="left" src="https://gofiber.io/assets/images/logo.svg" alt="fiber" width="56px"/>
    </a>
   <a href=“https://tailwindcss.com” ref=”nofollow”>
