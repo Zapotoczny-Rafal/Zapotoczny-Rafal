@@ -21,14 +21,27 @@
    </a>
    <br>
 </p>
+<br>
 
 ### Languages and tools:
 <p dir="auto">
-   <a href="https://www.w3.org/html/" rel="Nofollow">
-     <img align=”left” alt=”HTML5” width=”24px” src=”https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png”>
+   <a href=“https://go.dev/learn/” ref=”nofollow”>
+     <img align="left" src="https://go.dev/images/go-logo-white.svg" alt="golang" width="36px"/>
    </a>
-   <br>
+   <a href=“https://gofiber.io” ref=”nofollow”>
+     <img align="left" src="https://gofiber.io/assets/images/logo.svg" alt="fiber" width="56px"/>
+   </a>
+  <a href=“https://tailwindcss.com” ref=”nofollow”>
+     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/120px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="tailwind" width="32px"/>
+   </a>
+  <a href=“https://hyperscript.org” ref=”nofollow”>
+     <img align="left" src="https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/htmx-logo.png" alt="tailwind" width="56px"/>
+   </a>
+   <a href=“https://htmx.org” ref=”nofollow”>
+     <img align="left" src="https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/hyperscript-logo.png" alt="tailwind" width="56px"/>
+   </a>
 </p>
+<br><br>
 
 ### Software:
 <p dir="auto">
@@ -57,4 +70,5 @@
 </p>
 
 ### Statistics:
-[[!GitHub Statistics by Rafał Zapotoczny](https://github-readme-stats.vercel.app/api?username = Zapotoczny-Rafal)](https://github.com/anuraghazra/github-readme-stats)
+![Zapotoczny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zapotoczny-Rafal&show_icons=true&theme=radical)
+
