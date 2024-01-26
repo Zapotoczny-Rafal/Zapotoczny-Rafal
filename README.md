@@ -1,42 +1,42 @@
 ## Cześć, jestem Rafał Zapotoczny
 
 ### O mnie : 
- Pasjonaję Sie Web Dev i lub uczenie się przez nowy rząd.<br>
+ Pasjonaję Sie Web Dev i lub więcej, które są teraz dostępne.<br>
  Uwielbiam programowanie typu open source, nowe technologie i psy 
 
 ### Ulubiona wycena : 
 
-> ## _„Dziesiątkość programów programowych nie dla kategorii, że jest ona przeznaczona dla wszystkich, które są dostępne dla wszystkich, ale dla programów.„_
+> ## _„Dziesiąć programów programów nie dla kategorii, że jest to program, który jest przeznaczony dla programów, należy do programów.„_
 > ### ~ Linus Torvalds
 
 ### Społeczny:
 <p reż="auto">
   <a href=„Https://cssbattle.dev/player/zapotocznyny” ref=„Nofollow”>
-    <img wyrównać=„lewo” src=„Https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/css-battle.png” alt="profil bitwy css ” szerokość=„24px” />
+    <img wyrównać=„Lewo” src=„Https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/css-battle.png” alt="profil bitwy css ” szerokość=„24px” "/>
   </a> 
   <a href=„Https://codepen.io/Rzapotoczny” ref=„Nofollow”>
     <img wyrównać=„lewo” src=„Https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/codepen-logo.png” alt="profil kodepenowy ” szerokość=„24px” />
   </a>
   <a href=„Https://www.codewars.com/users/Zapotoczny-Rafal” ref=„Nofollow”>
-    <img wyrównać=„lewo” src=„Https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/codewars.svg” alt="profil wojny kodowe ” szerokość=„24px” />
+    <img wyrównać=„Lewo” src=„Https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/codewars.svg” alt="profil wojny kodowe ” szerokość=„24px” />
   </a>
   <br>
 </p>
 <Godz></Godz>
 
-### Języki i narzędzia:
+### Języki i narzędzia :
 <p reż="auto">
-  <a href=„https://developer.mozilla.org/pl/docs/Web/JavaScript” rel=„nofollow”>
-    <img wyrównać="lewo" alt=„javascript” szerokość=„24px” src=„https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png”>
+  <a href=„Https://developer.mozilla.org/pl/docs/Web/JavaScript” rel=„Nofollow”>
+    <img wyrównać=„lewo” alt=„Javascript” szerokość=„24px” src=„Https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png”>
   </a>
-  <a href=„https://www.w3.org/html/” rel=„nofollow”>
-    <img wyrównać="lewo" alt=„HTML5” szerokość=„24px” src=„https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png”>
+  <a href=„Https://www.w3.org/html/” rel=„Nofollow”>
+    <img wyrównać=„lewo” alt=„HTML5” szerokość=„24px” src=„Https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png”>
   </a>
-  <a href=„https://www.w3schools.com/css/” rel=„nofollow”>
-    <img wyrównać="lewo" alt=„CSS3” szerokość=„24px” src=„https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png”>
+  <a href=„Https://www.w3schools.com/css/” rel=„Nofollow”>
+    <img wyrównać=„lewo” alt=„CSS3” szerokość=„24px” src=„Https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png”>
   </a>
-  <a href=„https://sass-lang.com/” rel=„nofollow”>
-    <img wyrównać="lewo" alt=„SCSS” szerokość=„24px” src=„https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/sass.svg.png”>
+  <a href=„Https://sass-lang.com/” rel=„Nofollow”>
+    <img wyrównać=„lewo” alt=„SCSS” szerokość=„24px” src=„https://github.com/Zapotoczny-Rafal/Zapotoczny-Rafal/blob/main/images/sass.svg.png”>
   </a>
   <a href=„https://git-scm.com/” rel=„nofollow”> 
     <img wyrównać="lewo" alt=„git” szerokość=„24px” src=„https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2777 data-canonical-src=„https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg”>
